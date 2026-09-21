@@ -104,7 +104,7 @@ The Power BI dashboard provides an interactive view of customer shopping behavio
 
 ## Dashboard Preview
 
-![Customer Behavior Dashboard](customer_behavior_dashboard.png)
+https://github.com/cRanjith7/customer-shopping-behavior-analysis/blob/main/customer_behavior_dashboard.png
 
 ## Project Structure
 
