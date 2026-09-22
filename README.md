@@ -164,6 +164,3 @@ Through this project, I practiced the complete data analytics workflow and stren
 - Business Analysis
 - Dashboard Development
 
-## Note
-
-This is a learning and portfolio project based on a customer shopping behavior dataset. It was created to practice and understand the end-to-end data analytics process.
